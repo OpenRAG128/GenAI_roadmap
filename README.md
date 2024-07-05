@@ -1,7 +1,7 @@
 <h1 align="left">AI FOR INDIA - A pan India generativeAI Hackathon </h1>
-</br>
+</br><br>
 <b>Officially Organized by OpenRAG and AxamineAI</b>
-<br>
+</br><br>
 
 AI FOR INDIA is a generativeAI hackathon conducted over the nation and successfully grasped 150+ attendees along with multiple project submissions and a dynamic 36 HRS. PRODUCT BUILDING. 
 </br></br>
