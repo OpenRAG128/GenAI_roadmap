@@ -4,6 +4,7 @@
 </br><br>
 
 AI FOR INDIA is a generativeAI hackathon conducted over the nation and successfully grasped 150+ attendees along with multiple project submissions and a dynamic 36 HRS. PRODUCT BUILDING. 
+Our main aim behind this name was: AI FOR INDIA- INDIA FOR THE FUTURE. It simply says we want India to be the future of the AI world and we at OpenRAG and AxamineAI are working day and night to make it possible for :india:
 </br></br>
 If you also want to excel in the field of Generative AI and with the fast changing world then you should must follow <a href="https://www.instagram.com/open.rag?igsh=MWRvMmpmMDJ0Ym94NA==">OpenRAG</a>  and <a href="https://www.instagram.com/axamine.ai?igsh=MTFwdHc4MnZtc2I3eQ==">AxamineAI</a> 
 </br>
@@ -73,7 +74,7 @@ Some Cool examples (18 Min)
 
 ### 9. LangChain
 ---
-> I prefer going through the LangChain documentation, which is well-written and includes example notebooks, as it updates very quickly. Referring to most of the LangChain YouTube videos might give you outdated content after a few weeks.
+> I prefer going through the LangChain documentation, as it updates very quickly. Referring to most of the LangChain YouTube videos might give you outdated content after a few weeks. Give it a shot.
 
 * Official Doc - https://www.langchain.com/
 
@@ -179,6 +180,6 @@ Some Cool examples (18 Min)
 ---
 * https://github.com/genieincodebottle/generative-ai/tree/main/docs/GenAI_Interview_Questions-Draft.pdf
 
-### 🤝 Contributing
+### 🤝 Thank You for joining AI FOR INDIA
 ---
-Contributions to add good impactful resources to the list are welcome! You can fork the repo and create a PR to merge your changes.<br /><br />
+Official organisers OpenRAG and AxamineAI promises the indian audience that we will keep conducting this PAN INDIA hackathons. So, each and every indian should be on the top of the world in the field of AI.<br /><br />
