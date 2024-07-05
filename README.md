@@ -183,3 +183,6 @@ Some Cool examples (18 Min)
 ### 🤝 Thank You for joining AI FOR INDIA 💪🔥
 ---
 Official organisers OpenRAG and AxamineAI promises the indian audience that we will keep conducting this PAN INDIA hackathons. So, each and every indian should be on the top of the world in the field of AI.<br /><br />
+If you want to collaborate or work with us, you can DM us from the IG links given above or you can visit our website to know more about us:
+OpenRAG - [OpenRAG Website](https://openrag.in)
+AxamineAI - [AxamineAI Website](https://axamine.in)
