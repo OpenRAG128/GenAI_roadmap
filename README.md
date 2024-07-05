@@ -4,18 +4,18 @@
 </br><br>
 
 AI FOR INDIA is a generativeAI hackathon conducted over the nation and successfully grasped 150+ attendees along with multiple project submissions and a dynamic 36 HRS. PRODUCT BUILDING. 
-Our main aim behind this name was: AI FOR INDIA- INDIA FOR THE FUTURE. It simply says we want India to be the future of the AI world and we at OpenRAG and AxamineAI are working day and night to make it possible for :india:
+Our main aim behind this name was: AI FOR INDIA- INDIA FOR THE FUTURE. It simply says we want India to be the future of the AI world.
 </br></br>
 If you also want to excel in the field of Generative AI and with the fast changing world then you should must follow <a href="https://www.instagram.com/open.rag?igsh=MWRvMmpmMDJ0Ym94NA==">OpenRAG</a>  and <a href="https://www.instagram.com/axamine.ai?igsh=MTFwdHc4MnZtc2I3eQ==">AxamineAI</a> 
 </br>
 
 ### 0. GenAI Crash Course for Beginners (~3 Hr)
 <br/>
-This is a nice video to refresh your high-level overview of generative AI.
+▶️This is a nice video to refresh your high-level overview of generative AI.
 
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=d4yCWBGFCEs)
 
-### 1. Fundamentals of GenAI (1.2 Hr)
+### 1. Fundamentals of GenAI (1.2 Hr) 🙇
 ---
 * Generative AI in Nutshell - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 * Intro to GenAI - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=cZaNf2rA30k&list)
@@ -30,32 +30,32 @@ This is a nice video to refresh your high-level overview of generative AI.
 * Useful Blog - https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/Applied_LLMs_Mastery_2024
 * Optional Deep Learning Playlist (Famous 3blue1brown) - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
 
-### 2. What is GPT? (28 Min) 
+### 2. What is GPT? (28 Min) 🤖
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=wjZofJX0v4M)
 
 
-### 3. What is Transformer? (10 Min Video)
+### 3. What is Transformer? (10 Min Video) 🏃
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=SZorAJ4I-sA)
 
 
-### 4. Python 
+### 4. Python 🐍
 ---
 * Python Core Crash Course (1 Hr) -  [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 * Python DS Crash Course (49 Min) - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7eh4d6sabA0)
 
-### 5. Understanding Google Colab (22 Min Video)
+### 5. Understanding Google Colab (22 Min Video) 📚
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=0egNLDwwCSk&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0)
 
 
-### 6. Why should you use Open Source LLM? (7 Min)
+### 6. Why should you use Open Source LLM? (7 Min) 🍃
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=y9k-U9AuDeM)
 
 
-### 7. Huggingface Open Source Models (34 Min)
+### 7. Huggingface Open Source Models (34 Min) 🤗
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=wMqo7-d4T4Y&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=3)
 
@@ -63,7 +63,7 @@ This is a nice video to refresh your high-level overview of generative AI.
 * Official Doc - https://huggingface.co/
 
 
-### 8. Running LLM Locally using Ollama (~ 1.5 Hr)
+### 8. Running LLM Locally using Ollama (~ 1.5 Hr) 🤝
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PL8motc6AQftkWtR16gGQWSVrH4bvbEETo)
 
@@ -72,14 +72,14 @@ Some Cool examples (18 Min)
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=h_GTxRFYETY)
 
 
-### 9. LangChain
+### 9. LangChain 🔗
 ---
 > I prefer going through the LangChain documentation, as it updates very quickly. Referring to most of the LangChain YouTube videos might give you outdated content after a few weeks. Give it a shot.
 
 * Official Doc - https://www.langchain.com/
 
 
-### 10. Prompt Engineering
+### 10. Prompt Engineering 🧑‍💻
 ---
 * Course - https://www.coursera.org/specializations/prompt-engineering
 * Blogs
@@ -90,17 +90,17 @@ Some Cool examples (18 Min)
    * https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks-into-simpler-subtasks
 
 
-### 11. What is Vector Database?
+### 11. What is Vector Database? 0️⃣1️⃣
 ---
 * https://www.pinecone.io/learn/vector-database/
 
 
-### 12. What is Vector Embedding?
+### 12. What is Vector Embedding? 🪛
 ---
 * https://qdrant.tech/articles/what-are-embeddings/
 
 
-### 13. RAG Tutorials (~2 Hr)
+### 13. RAG Tutorials (~2 Hr) 🧑‍🚀
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?app=desktop&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 
@@ -109,17 +109,17 @@ Some Cool examples (18 Min)
 * GitHub
    * https://github.com/sakunaharinda/ragatouille-book/tree/main
 
-### 14. RAG Vs Prompt Engineering Vs Fine Tuning (15 Min)
+### 14. RAG Vs Prompt Engineering Vs Fine Tuning (15 Min) 🪢
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=YVWxbHJakgg)
 
 
-### 15. Fine Tuning LLM (~4 Hr)
+### 15. Fine Tuning LLM (~4 Hr) 🔥
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
 
 
-### 16. LLM Agents
+### 16. LLM Agents ⛓️
 ---
 * https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
 * https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/
@@ -130,27 +130,27 @@ Some Cool examples (18 Min)
 * https://docs.agpt.co/#agent
 
 
-### 17. What is MultiModel? (7 Min)
+### 17. What is MultiModel? (7 Min) 🎭
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=WkoytlA3MoQ)
 * Blog - https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/mm_llms_guide.md
 
 
-### 18. What is Mixture of Experts (MoE) (~30 Min)
+### 18. What is Mixture of Experts (MoE) (~30 Min) 🏢
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mwO6v4BlgZQ)
 
 * https://huggingface.co/blog/moe
 
 
-### 19. Streamlit for fast prototype UI
+### 19. Streamlit for fast prototype UI ⚒️
 ---
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=20V_ZB7taCM)
 
 * https://docs.streamlit.io/
 
 
-### 20. GenAI Use Cases
+### 20. GenAI Use Cases 🖥️
 ---
 * Tagging - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7yFxK0kGLNo)
 * Webscraping - https://github.com/genieincodebottle/generative-ai/tree/main/genai_usecases/scrapgraph
@@ -160,26 +160,26 @@ Some Cool examples (18 Min)
 * Text Summarization - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=8ztk-f2PcrQ&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=6)
 
 
-### 21. LLM Evaluation
+### 21. LLM Evaluation 💯
 ---
 * Blogs
    * https://deci.ai/blog/llm-evaluation-ultimate-guide/
    * https://research.aimultiple.com/large-language-model-evaluation/
    * https://aisera.com/blog/llm-evaluation/
 
-### 22. LLMOPs & Productionization of GenAI applications
+### 22. LLMOPs & Productionization of GenAI applications 🏗️
 ---
 * Short Course - https://www.deeplearning.ai/short-courses/llmops/
 * Specialization - https://www.coursera.org/specializations/large-language-model-operations
 
-### 23. GenAI Glossary of terms
+### 23. GenAI Glossary of terms 🧑‍🏫
 ---
 * https://github.com/genieincodebottle/generative-ai/tree/main/docs/Essential_Terms_GenAI.pdf
 
-### 24. GenAI Interview Questions & Answers
+### 24. GenAI Interview Questions & Answers 🧑‍🏭
 ---
 * https://github.com/genieincodebottle/generative-ai/tree/main/docs/GenAI_Interview_Questions-Draft.pdf
 
-### 🤝 Thank You for joining AI FOR INDIA
+### 🤝 Thank You for joining AI FOR INDIA 💪🔥
 ---
 Official organisers OpenRAG and AxamineAI promises the indian audience that we will keep conducting this PAN INDIA hackathons. So, each and every indian should be on the top of the world in the field of AI.<br /><br />
