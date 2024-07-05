@@ -1,5 +1,5 @@
 <h1 align="left">AI FOR INDIA - A pan India generativeAI Hackathon </h1>
-</br><br>
+
 <b>Officially Organized by OpenRAG and AxamineAI</b>
 </br><br>
 
