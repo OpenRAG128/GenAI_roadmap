@@ -8,5 +8,6 @@ If you also want to excel in the field of Generative AI and with the fast changi
 
 ### 0. GenAI Crash Course for Beginners (~3 Hr)
 <br/>
-This is a nice video to refresh your high-level overview of generative AI.
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=d4yCWBGFCEs) 
+This is a nice video to refresh your high-level overview of generative AI. I suggest watching this video first, then proceeding with more detailed learning from the first point onward.
+
+* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=d4yCWBGFCEs)
